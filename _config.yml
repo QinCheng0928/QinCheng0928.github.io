@@ -11,7 +11,7 @@ site_theme               : "default"
 title                    : "Cheng Qin - Personal Homepage"
 title_separator          : "-"
 name                     : &name "Cheng Qin"
-description              : "An undergraduate student at the School of Computer Science, Tongji University. A doctoral student at the School of Transportation, Tongji University. Focusing on research in the field of autonomous driving."
+description              : " " # "An undergraduate student at the School of Computer Science, Tongji University. A doctoral student at the School of Transportation, Tongji University. Focusing on research in the field of autonomous driving."
 repository               : "QinCheng0928/QinCheng0928.github.io"
 
 # Site Author
