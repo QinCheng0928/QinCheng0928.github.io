@@ -1,4 +1,11 @@
-
+<!-- 
+README文件，在仓库主页README部分点击[中文文档]后显示。
+路径中：
+    blob表示查看单个文件
+    tree表示查看目录结构
+    main表示分支名称
+由此获得github仓库中的文件路径。 
+-->
 <h1 align="center">
 AcadHomepage
 </h1>
