@@ -14,7 +14,7 @@ AcadHomepage
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
 
-# Acknowledges
+# Personal Homepage
 - [Personal Homepage of the author](https://QinCheng0928.github.io/)
 
 
