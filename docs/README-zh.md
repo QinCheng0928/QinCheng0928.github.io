@@ -21,6 +21,7 @@ AcadHomepage
 
 # 致谢
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- AcadHomepage 集成了 Font Awesome，该库在 SIL OFL 1.1 和 MIT 许可证条款下分发。  
+- AcadHomepage 受到了 GitHub 仓库 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 的启发，该仓库在 MIT 许可证下分发。  
+- AcadHomepage 受到了 GitHub 仓库 [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) 的启发，该仓库在 MIT 许可证下分发。  
+- AcadHomepage 受到了 GitHub 仓库 [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io) 的启发，该仓库在 MIT 许可证下分发。  
