@@ -5,10 +5,10 @@ AcadHomepage
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/QinCheng0928/acad-homepage.github.io)](https://github.com/QinCheng0928/acad-homepage.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/QinCheng0928/acad-homepage.github.io)](https://github.com/QinCheng0928/acad-homepage.github.io)
-[![GitHub issues](https://img.shields.io/github/issues/QinCheng0928/acad-homepage.github.io)](https://github.com/QinCheng0928/acad-homepage.github.io)
-[![GitHub license](https://img.shields.io/github/license/QinCheng0928/acad-homepage.github.io)](https://github.com/QinCheng0928/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+[![GitHub stars](https://img.shields.io/github/stars/QinCheng0928/QinCheng0928.github.io)](https://github.com/QinCheng0928/QinCheng0928.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/QinCheng0928/QinCheng0928.github.io)](https://github.com/QinCheng0928/QinCheng0928.github.io)
+[![GitHub issues](https://img.shields.io/github/issues/QinCheng0928/QinCheng0928.github.io)](https://github.com/QinCheng0928/QinCheng0928.github.io)
+[![GitHub license](https://img.shields.io/github/license/QinCheng0928/QinCheng0928.github.io)](https://github.com/QinCheng0928/QinCheng0928.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
 </div>
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
