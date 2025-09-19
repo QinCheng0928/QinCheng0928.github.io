@@ -26,27 +26,9 @@ My research interests are primarily focused on autonomous driving, with a partic
 
 
 # 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">
-        CVPR 2016</div>
-        <img src='images/500x300.png' alt="sym" width="100%">
-      </div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-
-  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-  **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-  </div>
-</div>
 <!-- 详细论文展示模板 -->
 <div class='paper-box'>
-  <!-- 显示论文图片和图片左上角对应的期刊 -->
+  <!-- 显示论文图片和图片左上角对应的期刊 -->  
   <div class='paper-box-image'>
     <div>
       <div class="badge">
@@ -57,12 +39,15 @@ My research interests are primarily focused on autonomous driving, with a partic
   </div>
 
   <div class='paper-box-text' markdown="1">
-    <!-- 论文题目 -->
-    [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-    <!-- 论文作者 -->
-    **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-    <!-- 论文项目主页链接 -->
-    [Project Page](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+
+  <!-- 论文题目 -->  
+  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+    
+  <!-- 论文作者 -->
+  **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    
+  <!-- 论文项目主页链接 -->
+  [Project Page](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
   </div>
 </div>
 
