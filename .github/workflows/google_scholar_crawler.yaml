@@ -7,9 +7,10 @@ on:
  schedule:
   - cron:  '0 8 * * *'
 
-# 需要在 Setting -> Sercrets and variables -> Actions -> Repository secrets 中添加 GOOGLE_SCHOLAR_ID
-# 谷歌学术个人主页链接： https://scholar.google.com/citations?user=xxxxxxxxxxx
-# GOOGLE_SCHOLAR_ID：xxxxxxxxxxx
+# 需要在 Setting -> Sercrets and variables -> Actions -> Repository secrets 
+# name=GOOGLE_SCHOLAR_ID
+# value=SCHOLAR_ID
+# 例如，谷歌学术个人主页链接： https://scholar.google.com/citations?user=SCHOLAR_ID
 jobs:
   build:
     runs-on: ubuntu-latest
