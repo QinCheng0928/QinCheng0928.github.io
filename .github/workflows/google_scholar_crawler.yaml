@@ -3,9 +3,9 @@ name: Get Citation Data
 
 # 触发器：GitHub Pages构建发生(page_build) 或者 每天8点运行
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  schedule:
+    - cron:  '0 8 * * *'
+  workflow_dispatch:
 
 # 需要在 Setting -> Sercrets and variables -> Actions -> Repository secrets 
 # name=GOOGLE_SCHOLAR_ID
@@ -16,20 +16,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
+      with:
+        ref: google-scholar-stats
+    - name: Install requirements
       run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
+        sudo apt-get update
+        sudo apt-get install -y python3-setuptools
+        pip3 install -r google_scholar_crawler/requirements.txt
+    - name: Run crawler
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
+        cd google_scholar_crawler
         python3 main.py
-        cd ./results
-        git init
+    - name: Commit & Push results
+      run: |
+        cd results
         git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
+        git diff --cached --quiet || git commit -m "Updated Citation Data"
+        git push origin HEAD:google-scholar-stats
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
