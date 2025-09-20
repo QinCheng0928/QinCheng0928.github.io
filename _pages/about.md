@@ -34,7 +34,7 @@ My research interests are primarily focused on autonomous driving, with a partic
       <div class="badge">
         CVPR 2016
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/paper/500x300.png' alt="sym" width="100%">
     </div>
   </div>
 
