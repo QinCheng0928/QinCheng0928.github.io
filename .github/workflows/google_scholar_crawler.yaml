@@ -1,10 +1,15 @@
+# workflow名称：Get Citation Data
 name: Get Citation Data
 
+# 触发器：GitHub Pages构建发生(page_build) 或者 每天8点运行
 on: 
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
 
+# 需要在 Setting -> Sercrets and variables -> Actions -> Repository secrets 中添加 GOOGLE_SCHOLAR_ID
+# 谷歌学术个人主页链接： https://scholar.google.com/citations?user=xxxxxxxxxxx
+# GOOGLE_SCHOLAR_ID：xxxxxxxxxxx
 jobs:
   build:
     runs-on: ubuntu-latest
