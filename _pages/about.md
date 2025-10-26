@@ -59,7 +59,7 @@ My research interests are primarily focused on autonomous driving, with a partic
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2029.09 – now*, Ph.D. in Transportation Engineering, College of Transportation, Tongji University, Shanghai, China  
+- *2026.09 – now*, Ph.D. in Transportation Engineering, College of Transportation, Tongji University, Shanghai, China  
 - *2022.09 – 2026.06*, B.Eng. in Software Engineering, College of Computer Science and Technology, Tongji University, Shanghai, China
 
 # 💻 Internships
