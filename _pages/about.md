@@ -55,8 +55,8 @@ My research focuses on **low-altitude traffic systems**, specifically leveraging
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Student (Honorary Title, Top 5%), Tongji University, *2023.12*, 
+- Outstanding Student Scholarship, Tongji University, *2022 - 2025*
 
 # 📖 Educations
 - *2026.09 – now*, Ph.D. in Transportation Engineering, College of Transportation, Tongji University, Shanghai, China  
