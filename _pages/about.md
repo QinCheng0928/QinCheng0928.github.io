@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am currently an undergraduate student in <a href="https://cs.tongji.edu.cn/">the College of Computer Science and Technology</a> at <a href="https://en.tongji.edu.cn">Tongji University</a>, where I am involved in the <a href="https://tops.tongji.edu.cn/">TOPS Lab</a>. Under the guidance of <a href="https://tops.tongji.edu.cn/info/1031/1187.htm">Professor Jian Sun</a> and <a href="https://tops.tongji.edu.cn/info/1031/1383.htm">Professor Peng Hang</a>, I am pursuing research at the intersection of technologies in autonomous driving systems and artificial intelligence.
+I completed my undergraduate studies in [Computer Science and Technology](https://cs.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn). Currently, I am a PhD student in the [College of Transportation](https://tjjt.tongji.edu.cn/) at Tongji University, where I am a member of the [TOPS Lab](https://tops.tongji.edu.cn/), under the supervision of [Professor Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Professor Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
 
-My research interests are primarily focused on autonomous driving, with a particular emphasis on decision-making processes, reinforcement learning techniques, and the application of foundation models. I am passionate about developing innovative solutions to improve safety, efficiency, and the overall user experience in autonomous systems.
+My research focuses on **low-altitude traffic systems**, specifically leveraging **Reinforcement Learning** and **Large Language Models (LLMs)** for low-altitude traffic planning and autonomous decision-making of Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs). I am dedicated to enhancing the safety, efficiency, and coordination of intelligent low-altitude transportation ecosystems.
 
 
 # 🔥 News
