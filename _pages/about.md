@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I completed my undergraduate studies in [Computer Science and Technology](https://cs.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn). Currently, I am a PhD student in the [College of Transportation](https://tjjt.tongji.edu.cn/) at Tongji University, where I am a member of the [TOPS Lab](https://tops.tongji.edu.cn/), under the supervision of [Professor Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Professor Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
+I completed my undergraduate studies in the [College of Computer Science and Technology](https://cs.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn). Currently, I am a PhD student in the [College of Transportation](https://tjjt.tongji.edu.cn/) at Tongji University, where I am a member of the [TOPS Lab](https://tops.tongji.edu.cn/), under the supervision of [Professor Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Professor Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
 
-My research focuses on **low-altitude traffic systems**, specifically leveraging **Reinforcement Learning** and **Large Language Models (LLMs)** for low-altitude traffic planning and autonomous decision-making of Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs). I am dedicated to enhancing the safety, efficiency, and coordination of intelligent low-altitude transportation ecosystems.
+My research focuses on **low-altitude traffic systems**, specifically leveraging **Reinforcement Learning** , **Large Language Models (LLMs)** , and other advanced AI techniques for low-altitude traffic planning and autonomous decision-making of Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs). I am dedicated to enhancing the safety, efficiency, and coordination of intelligent low-altitude transportation ecosystems.
 
 
 # 🔥 News
