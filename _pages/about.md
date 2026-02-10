@@ -8,17 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-I completed my undergraduate studies in the [College of Computer Science and Technology](https://cs.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn). Currently, I am a PhD student in the [College of Transportation](https://tjjt.tongji.edu.cn/) at Tongji University, where I am a member of the [TOPS Lab](https://tops.tongji.edu.cn/), under the supervision of [Professor Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Professor Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
-
-My research focuses on low-altitude traffic systems, specifically leveraging Reinforcement Learning , Large Language Models (LLMs) , and other advanced AI techniques for low-altitude traffic planning and autonomous decision-making of Unmanned Aerial Vehicles (UAVs) and Unmanned Ground Vehicles (UGVs). I am dedicated to enhancing the safety, efficiency, and coordination of intelligent low-altitude transportation ecosystems.
-
+<span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Our latest review titled [A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://www.techrxiv.org/users/1002954/articles/1363381-a-survey-on-end-to-end-autonomous-driving-training-from-the-perspectives-of-data-strategy-and-platform) has been published on Techrxiv\!
