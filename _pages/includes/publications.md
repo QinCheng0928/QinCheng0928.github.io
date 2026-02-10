@@ -1,5 +1,5 @@
 # 📝 Publications 
-## Journal Articles
+## 📚 Journal Articles
 <!-- 详细论文展示模板 -->
 <div class='paper-box'>
   <!-- 显示论文图片和图片左上角对应的期刊 -->  
@@ -28,6 +28,6 @@
 <!-- 简略论文展示模板 -->
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-## Conference Proceedings
+## 💬 Conference Proceedings
 
-## Invention Patents
+## 🧑‍🎨 Invention Patents
