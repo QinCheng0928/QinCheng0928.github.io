@@ -1,0 +1,2 @@
+# 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our latest review titled [A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://www.techrxiv.org/users/1002954/articles/1363381-a-survey-on-end-to-end-autonomous-driving-training-from-the-perspectives-of-data-strategy-and-platform) has been published on Techrxiv\!
