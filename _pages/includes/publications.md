@@ -28,6 +28,6 @@
 <!-- 简略论文展示模板 -->
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-## 💬 Conference Proceedings
+## 💬 Conference Papers
 
 ## 🧑‍🎨 Invention Patents
