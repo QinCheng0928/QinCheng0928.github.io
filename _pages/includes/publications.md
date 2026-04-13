@@ -26,7 +26,7 @@
 </div>
 
 <!-- 简略论文展示模板 -->
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 房世玉, 徐成凯, **秦成**, 崔一鸣, 杭鹏, 孙剑. [人机混驾环境下融合层次博弈与近端策略优化的多车协同决策](https://doi.org/10.19721/j.cnki.1001-7372.2026.03.012)[J]. 中国公路学报, 2026, 39 (03): 161-176.
 
 ## 💬 Conference Papers
 
