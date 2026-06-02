@@ -1,2 +1,3 @@
 # 🔥 News
-- Dec 2025: &nbsp;🎉🎉 Our latest review titled [A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://www.techrxiv.org/users/1002954/articles/1363381-a-survey-on-end-to-end-autonomous-driving-training-from-the-perspectives-of-data-strategy-and-platform) has been published on Techrxiv\!
+- *May 2026*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/11538396) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
+- *Dec 2025*: &nbsp;🎉🎉 Our latest review titled [A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://www.techrxiv.org/users/1002954/articles/1363381-a-survey-on-end-to-end-autonomous-driving-training-from-the-perspectives-of-data-strategy-and-platform) has been published on Techrxiv\!
