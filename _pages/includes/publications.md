@@ -32,4 +32,4 @@
 ## 💬 Conference Papers
 
 ## 🧑‍🎨 Invention Patents
-- 孙剑, **秦成**, 徐成凯, 房世玉, 高珍, 张皓, 杭鹏. [基于传感器注入与数字孪生的虚实融合无人机测试方法](https://kns.cnki.net/kcms2/article/abstract?v=wdP5rvnYoIw_bThNypsCmHipDpNBZkpYOGplor7RqXciL0Z5FfDIzLRW1U5CAOpLmRA8BNfDOM7XR57PMTBhuERK02NxOfPUBQkBUOW67Pd5dRVMkN5c4BHk7T5M1Iq9dhM13zzor6TW7mI1UfncEOTK7ELX7dLhM1vXVkMkkt7DR-6_NtVSBw==&uniplatform=NZKPT&language=CHS): 上海市, CN121757391A[P]. 2026-03-31
+- 孙剑, **秦成**, 徐成凯, 房世玉, 高珍, 张皓, 杭鹏. [基于传感器注入与数字孪生的虚实融合无人机测试方法](https://kns.cnki.net/kcms2/article/abstract?v=wdP5rvnYoIw_bThNypsCmHipDpNBZkpYOGplor7RqXciL0Z5FfDIzLRW1U5CAOpLmRA8BNfDOM7XR57PMTBhuERK02NxOfPUBQkBUOW67Pd5dRVMkN5c4BHk7T5M1Iq9dhM13zzor6TW7mI1UfncEOTK7ELX7dLhM1vXVkMkkt7DR-6_NtVSBw==&uniplatform=NZKPT&language=CHS): 上海市, CN121757391A[P]. 2026-04-28
