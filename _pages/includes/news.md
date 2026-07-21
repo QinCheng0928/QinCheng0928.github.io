@@ -1,4 +1,2 @@
 # 🔥 News
-<div class="news-container" markdown="1">
 - May 2026: &nbsp;🎉🎉 One paper titled [A Survey on End-to-End Autonomous Driving Training from the Perspectives of Data, Strategy, and Platform](https://ieeexplore.ieee.org/document/11538396) is accepted by IEEE Transactions on Intelligent Transportation Systems(SCI, Q1).[Project Page](https://github.com/Jiaaqiliu/Awesome-Training-Ecosystem-for-E2E-AD)
-</div>
